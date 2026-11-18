@@ -7,7 +7,7 @@ picks up changes within an hour.
 
 1. **Write the log.** Open `templates/Campaign Log Template.md`, copy its text, then go
    back to the repo's front page and choose **Add file → Create new file**. Name the file
-   `YYYY-MM-DD - Campaign name.md`, for example `2026-11-21 - The Lighthouse Riots.md`,
+   `YYYY-MM-DD - Campaign name.md`, for example `2026-11-21 - The Riots.md`,
    paste the template, fill it in and click **Commit changes**.
 2. **Update the running record.** Open `Campaign History.md`, click the pencil
    icon, add the campaign to it and click **Commit changes**.
